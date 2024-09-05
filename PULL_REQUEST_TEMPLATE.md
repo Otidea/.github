@@ -7,7 +7,6 @@
 | Fixed tickets | fixes # <!-- add issue number here e.g.: #5730 -->
 | Related issues/PRs | # <!-- add issue or PR number here e.g.: #5730 -->
 | License | MIT
-| Documentation PR | sulu/sulu-docs# <!-- add docs PR number here e.g.: sulu/sulu-docs#615 -->
 
 #### What's in this PR?
 
