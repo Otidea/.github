@@ -22,11 +22,16 @@ assignees: ''
 <!-- What is the behavior you expect? -->
 
 # Steps to Reproduce
-
+1. Go to '...'
+2. Click on '...'
+3. Scroll to '...'
+4. See error
 <!--
 What are the steps to reproduce this bug? Please add code examples,
 screenshots or links to GitHub repositories that reproduce the problem.
 -->
+
+# Screenshots
 
 # Possible Solutions
 
